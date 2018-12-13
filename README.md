@@ -1,4 +1,4 @@
-# GalexyMods
+# CookingPLUS
 
 **Welcome to the Galexy Mods' github!**
 Here you can submit issues, answer pulls, see what's new, and more!
